@@ -2,7 +2,7 @@
  * 注释①
  * @param args: 程序启动时。从命令行输入的指令
  */
-fun main(args: Array<String>) {
+fun main() {
     /*
     注释②
     这里是注释

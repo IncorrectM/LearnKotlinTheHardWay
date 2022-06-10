@@ -2,3 +2,4 @@
 
 *.class
 /src/*.jar
+/src/Sample.kt
